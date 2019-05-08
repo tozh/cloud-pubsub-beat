@@ -1,0 +1,2 @@
+cloudpubsubbeat:
+  period: 1s
