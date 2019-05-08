@@ -1,0 +1,13 @@
+/.idea
+/build
+/cloudpubsubbeat
+/cloudpubsubbeat.test
+*.pyc
+vscode
+.vscode
+vendor
+_vendor*
+.idea
+*.pyc
+.DS_store
+
